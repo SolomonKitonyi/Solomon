@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Solomon/static/css/main.fa3da6f7.chunk.css",
-    "main.js": "/Solomon/static/js/main.38611b28.chunk.js",
-    "main.js.map": "/Solomon/static/js/main.38611b28.chunk.js.map",
+    "main.js": "/Solomon/static/js/main.9496d2d1.chunk.js",
+    "main.js.map": "/Solomon/static/js/main.9496d2d1.chunk.js.map",
     "runtime-main.js": "/Solomon/static/js/runtime-main.2d8e9a44.js",
     "runtime-main.js.map": "/Solomon/static/js/runtime-main.2d8e9a44.js.map",
-    "static/js/2.070fb6c9.chunk.js": "/Solomon/static/js/2.070fb6c9.chunk.js",
-    "static/js/2.070fb6c9.chunk.js.map": "/Solomon/static/js/2.070fb6c9.chunk.js.map",
+    "static/js/2.6777276a.chunk.js": "/Solomon/static/js/2.6777276a.chunk.js",
+    "static/js/2.6777276a.chunk.js.map": "/Solomon/static/js/2.6777276a.chunk.js.map",
     "index.html": "/Solomon/index.html",
     "static/css/main.fa3da6f7.chunk.css.map": "/Solomon/static/css/main.fa3da6f7.chunk.css.map",
-    "static/js/2.070fb6c9.chunk.js.LICENSE.txt": "/Solomon/static/js/2.070fb6c9.chunk.js.LICENSE.txt"
+    "static/js/2.6777276a.chunk.js.LICENSE.txt": "/Solomon/static/js/2.6777276a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2d8e9a44.js",
-    "static/js/2.070fb6c9.chunk.js",
+    "static/js/2.6777276a.chunk.js",
     "static/css/main.fa3da6f7.chunk.css",
-    "static/js/main.38611b28.chunk.js"
+    "static/js/main.9496d2d1.chunk.js"
   ]
 }
